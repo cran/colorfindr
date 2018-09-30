@@ -1,0 +1,11 @@
+fe1d9bfbf45af2663c8fa523322dc218 *DESCRIPTION
+2295f49fcb71b94861b57793e2603a9a *NAMESPACE
+afed1108feb7079b256811eb6df9a7de *R/get_colors.R
+dc64db68b9e98ef5ffd56d7da9f4a4df *R/plot_colors.R
+57fa959a111479aa6740df70eccda0cd *R/utils.R
+26020fc3a72a771fc13b05bfc32cd086 *inst/extdata/pic1.png
+c90511c72220f4fab13ce13b3219fce5 *inst/extdata/pic2.tif
+85c3453e98d4648d270c10c501435bd1 *inst/extdata/pic3.jpg
+7e4215ba09e586537ba06e9838f216c6 *inst/extdata/pic4.bmp
+6a06b485576aedf52f897543c6974d68 *man/get_colors.Rd
+860499434b7ac7601b3f16810f12ff4a *man/plot_colors.Rd
