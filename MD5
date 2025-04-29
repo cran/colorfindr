@@ -1,10 +1,10 @@
-fbb86e2b1a41c8b688a69e46788157f4 *DESCRIPTION
+ca0ed0fb0a0d2db6284e9c5dc1f941db *DESCRIPTION
 280613b20c90dc7c8b63e43e1c3cebe1 *NAMESPACE
-a80b8a1160f35f71c1a2602a60c18539 *NEWS
+17835634677b8558d0b8c905bf1d8920 *NEWS
 dd063283a66f73371cd09c0ad6294012 *R/get_colors.R
 e5a6bb43f4a53f7d97dba453a30e56a6 *R/make_palette.R
 fd6b1d1f4e2be342172b1fc416d07885 *R/plot_colors.R
-2e16fab1ec3e74e29935d6bca4f9a39d *R/plot_colors_3d.R
+b2423c9b28ed411a024faf785508fe5d *R/plot_colors_3D.R
 0e7018d71f1b907f0eb3809481b72db6 *R/utils.R
 26020fc3a72a771fc13b05bfc32cd086 *inst/extdata/pic1.png
 c90511c72220f4fab13ce13b3219fce5 *inst/extdata/pic2.tif
@@ -12,7 +12,7 @@ c90511c72220f4fab13ce13b3219fce5 *inst/extdata/pic2.tif
 7e4215ba09e586537ba06e9838f216c6 *inst/extdata/pic4.bmp
 51e1105dcb9911fe59b45cba5d111767 *inst/extdata/pic5.png
 540c8a6d9cab1b1c297272731132511a *inst/extdata/pic6.png
-6a06b485576aedf52f897543c6974d68 *man/get_colors.Rd
-150e2be55c1c3fe4c6b5fdd8f7bdc4d8 *man/make_palette.Rd
+9d0fdd298e93b0e51b27af24298d02ac *man/get_colors.Rd
+195991c65814e60aecb5faa109d82961 *man/make_palette.Rd
 d839b8de4232a5eb745dde0547c92bc7 *man/plot_colors.Rd
-24480ccb6db3683eb73b5062c7670e11 *man/plot_colors_3d.Rd
+d56ea0f438c9ecf6b2d8b763b66c3ce6 *man/plot_colors_3d.Rd
